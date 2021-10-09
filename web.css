@@ -1,0 +1,164 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'M PLUS 1p';
+	width: 100%;
+}
+
+div.menu {
+	position: -webkit-sticky;
+	position: sticky;
+  	top: 0;
+	background-color: #8a6bc7;
+	overflow: hidden;
+	width: 100%;
+	line-height: 36px;
+	margin: 0px;
+}
+.menu a {
+	text-align: center;
+	padding-left: 0px;
+	float: left;
+	width: 33.3%;
+	font-size: 1.35vw;
+	color: white;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.menu a:hover {
+	color: #29293d;
+	background-color: #B4A1DB;
+}
+.menu a.active {
+	color: #29293d;
+	background-color: #B4A1DB;
+}
+#name {
+	text-align: center;
+	padding: 18px;
+	background-color: #8a6bc7;
+	font-size: 2.65vw;
+	color: white;
+}
+.pic {
+	margin: 0px;
+}
+.info{
+	padding: 60px;
+	font-size: 20px;
+	text-align: center;
+}
+a.link {
+	color: #1C083B;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #CDC1E7;
+	padding: 5px;
+	border-radius: 10px;
+}
+#txt1{
+	width: 27%;
+	text-align: justify;
+	float: left;
+	padding: 20px;
+}
+#txt2{
+	width: 33%;
+	float: left;
+	padding: 20px;
+}
+#txt3{
+	width: 27%;
+	text-align: justify;
+	float: left;
+	padding: 20px;
+}
+#txt4{
+	width: 31%;
+	float: left;
+	clear:both;
+	padding: 15px;
+}
+#txt5{
+	width: 29%;
+	text-align: justify;
+	float: left;
+	padding: 15px;
+}
+#list{
+	text-align: center;
+	font-size: 25px;
+}
+#txt6{
+	width: 31%;
+	padding: 15px;
+	float: left;
+}
+.pic1{
+	max-width: 425px;
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	}
+.l2{
+	clear:both;
+}
+.cpdpic{
+	border-radius: 20px;
+}
+#cpdpic1{
+	width: 39%;
+	float: left;
+	padding: 30px 40px 30px 20px;
+}
+.cpdtxt1{
+	width: 52%;
+	float: left;
+	text-align: justify;
+	padding: 30px 0px;
+}
+.cpdtxt2{
+	width: 52%;
+	float: left;
+	text-align: justify;
+	padding: 30px 0px;
+	clear: both;
+}
+#cpdpic2{
+	width: 39%;
+	float: left;
+	padding: 30px 10px 30px 40px;
+}
+#cpdpic3{
+	width: 39%;
+	float: left;
+	padding: 30px 20px 30px 40px;
+	clear: both;
+}
+#cpdpic4{
+	width: 39%;
+	float: left;
+	padding: 30px 20px 30px 40px;
+}
+.social{
+	text-align: right;
+	margin-right: 30px;
+}
+.social i {
+	padding: 0px 25px;
+	color: white;
+}
+.copyright{
+	float: left;
+}
+#footer {
+	font-size: 1.25vw;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	background-color: #8a6bc7;
+	color: white;
+	clear: both;
+}
+

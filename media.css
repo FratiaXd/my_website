@@ -1,0 +1,175 @@
+@media screen and (max-width: 1150px) {
+	.info{
+		padding: 20px;
+		text-align: center;
+		font-size: 17px;
+	}
+	#txt1{
+		width: 45%;
+		text-align: inherit;
+		padding: 50px 15px 50px;
+	}
+	#txt2{
+		text-align: center;
+		width: 45%;
+		padding: 5px 10px 50px 15px;
+		clear: none;
+	}
+	.pic1{
+		max-width: 425px;
+		width: 100%;
+		height: auto;
+		padding: 0px;
+	}
+	#txt3{
+		width: 45%;
+		text-align: inherit;
+		padding: 50px 15px 50px;
+		float: right;
+	}
+	#txt4{
+		width: 45%;
+		padding: 5px 10px 50px 15px;
+		float: left;
+		clear: none;
+	}
+	#txt5{
+		width: 45%;
+		text-align: left;
+		padding: 15px 15px 50px;
+		list-style-position: inside;
+		float: left;
+		clear: both;
+	}
+	#txt6{
+		text-align: center;
+		width: 45%;
+		padding: 5px 10px 50px 15px;
+		float: right;
+	}
+	#footer{
+		font-size: 1.8vw;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	div.menu{
+		position: static;
+	}
+	.menu a {
+		float: none;
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding-bottom: 5px;
+		padding-top: 5px;
+		font-size: 2.8vw;
+	}
+	#name {
+		text-align: center;
+		padding: 3px;
+		background-color: #8a6bc7;
+		font-size: 15px;
+		color: white;
+	}
+	.info{
+		padding: 20px;
+		text-align: center;
+		font-size: 17px;
+	}
+	#txt1{
+		width: auto;
+		text-align: inherit;
+		padding: 0px;
+	}
+	#txt2{
+		text-align: center;
+		width: 100%;
+		padding: 0px;
+	}
+	.pic1{
+		max-width: 425px;
+		width: 100%;
+		height: auto;
+		padding: 10px 0px;
+	}
+	#txt3{
+		width: auto;
+		text-align: inherit;
+		padding: 0px; 
+	}
+	#txt4{
+		text-align: center;
+		width: 100%;
+		padding: 0px;
+	}
+	#txt5{
+		width: 100%;
+		text-align: left;
+		padding: 0px;
+		list-style-position: inside;
+	}
+	#txt6{
+		text-align: center;
+		width: 100%;
+		padding: 0px;
+	}
+	#cpdpic1{
+		width: auto;
+		text-align: center;
+		padding: 0px;
+		display: block;
+		float: none;
+    	margin-left: auto;
+    	margin-right: auto
+	}
+	.cpdpic {
+		max-width: 425px;
+		width: 100%;
+		height: auto;
+		padding: 10px 0px;
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto
+	}
+	.cpdtxt1{
+		width: 100%;
+		text-align: justify;
+		padding: 30px 0px;
+	}
+	.cpdtxt2{
+		width: 100%;
+		text-align: justify;
+		padding: 30px 0px;
+	}
+	#cpdpic2{
+		width: auto;
+		text-align: center;
+		float: none;
+		padding: 0px;
+		display: block;
+   	 	margin-left: auto;
+    	margin-right: auto
+	}
+	#cpdpic3{
+		width: auto;
+		text-align: center;
+		padding: 0px;
+		float: none;
+		display: block;
+   	 	margin-left: auto;
+    	margin-right: auto
+	}
+	#cpdpic4{
+		width: auto;
+		text-align: center;
+		padding: 0px;
+		display: block;
+		float: none;
+   	 	margin-left: auto;
+    	margin-right: auto
+	}
+	#footer{
+		font-size: 1.8vw;
+	}
+}
